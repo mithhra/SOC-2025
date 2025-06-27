@@ -46,9 +46,39 @@ This document summarizes my learning, coding work, and progress over Weeks 1 to 
 - Learned debugging/training flow in PyTorch
 
 ---
-## Checkpoint: FashionVision Challenge – Fashion-MNIST Classification  
+## Checkpoint: FashionVision Challenge – Fashion-MNIST Classification 
+
 ### Task:
-Build a deep learning model using PyTorch to classify grayscale images (28×28) of fashion items into 10 classes (e.g., shirts, sneakers, dresses, bags).
+Build a PyTorch CNN model to classify grayscale images of fashion items into 10 classes.
+
+### Dataset:
+- Fashion-MNIST (28×28 grayscale images)
+- 10 categories including shirts, sneakers, trousers, and bags
+
+### Tools & Libraries:
+- PyTorch
+- torchvision
+- sklearn (for train/val split)
+- pandas & numpy
+
+### What I Did:
+- Preprocessed data (normalized pixel values, reshaped images)
+- Built a LeNet-like CNN using `nn.Sequential`:
+  - 2 Conv layers
+  - 2 AvgPool layers
+  - Fully connected classifier
+- Used Adam optimizer & CrossEntropyLoss
+- Trained for 20 epochs with batch size 64
+- Achieved **89.40%** validation accuracy (fill in your value)
+
+### Output:
+- Created `submission.csv` with model predictions for test set
+
+### What I Learned:
+- Building CNNs using PyTorch modules
+- Preprocessing custom datasets using `torch.utils.data.Dataset`
+- How to train and evaluate a classification model
+- Exporting predictions for competition-style submissions
 
 ### Dataset:
 - [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist)
