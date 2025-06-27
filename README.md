@@ -56,7 +56,7 @@ Build a deep learning model using PyTorch to classify grayscale images (28×28) 
 ### What I Did:
 - Loaded and preprocessed the Fashion-MNIST dataset (normalization, transforms)
 - Built a multi-layer neural network using `nn.Sequential` in PyTorch
-- Used ReLU activations and Soft
+- Used tanh activations 
 
 
 ## Week 3: Deep Learning + CNN  
