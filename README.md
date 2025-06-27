@@ -120,7 +120,7 @@ Build a PyTorch CNN model to classify grayscale images of fashion items into 10 
 
 ### Code Submissions:
 - House price prediction (Week 1)
-- Basics of Python(Week 2)
+- Python Basics with numpy(Week 2)
 - CHECKPOINT 1
 - CIFAR-10 classifier (Week 3)
 - Neural style transfer (Week 4)
@@ -134,4 +134,4 @@ Build a PyTorch CNN model to classify grayscale images of fashion items into 10 
 
 ---
 
-> *This README reflects my current understanding, all the code in this repo is written by me, and I’m excited to keep building and learning in the coming weeks!*
+> *This README reflects my current understanding, I’m excited to keep building and learning in the coming weeks!*
