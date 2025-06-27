@@ -1,5 +1,5 @@
 # SOC-2025
-# Midterm Submission – Machine Learning & Deep Learning Progress Report
+# Midterm Submission – Ghibli Image Transfer 
 
 This document summarizes my learning, coding work, and progress over Weeks 1 to 4 of the mentorship. It includes theory concepts I've learned, improvements in my coding skills, assignments completed, and relevant resources used.
 
