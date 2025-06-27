@@ -46,8 +46,6 @@ This document summarizes my learning, coding work, and progress over Weeks 1 to 
 - Learned debugging/training flow in PyTorch
 
 ---
----
-
 ## Checkpoint: FashionVision Challenge – Fashion-MNIST Classification  
 ### Task:
 Build a deep learning model using PyTorch to classify grayscale images (28×28) of fashion items into 10 classes (e.g., shirts, sneakers, dresses, bags).
