@@ -80,14 +80,6 @@ Build a PyTorch CNN model to classify grayscale images of fashion items into 10 
 - How to train and evaluate a classification model
 - Exporting predictions for competition-style submissions
 
-### Dataset:
-- [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist)
-
-### What I Did:
-- Loaded and preprocessed the Fashion-MNIST dataset (normalization, transforms)
-- Built a multi-layer neural network using `nn.Sequential` in PyTorch
-- Used tanh activations 
-
 
 ## Week 3: Deep Learning + CNN  
 ### Resources Used:
