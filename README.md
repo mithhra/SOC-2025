@@ -46,6 +46,20 @@ This document summarizes my learning, coding work, and progress over Weeks 1 to 
 - Learned debugging/training flow in PyTorch
 
 ---
+---
+
+## Checkpoint: FashionVision Challenge – Fashion-MNIST Classification  
+### Task:
+Build a deep learning model using PyTorch to classify grayscale images (28×28) of fashion items into 10 classes (e.g., shirts, sneakers, dresses, bags).
+
+### Dataset:
+- [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist)
+
+### What I Did:
+- Loaded and preprocessed the Fashion-MNIST dataset (normalization, transforms)
+- Built a multi-layer neural network using `nn.Sequential` in PyTorch
+- Used ReLU activations and Soft
+
 
 ## Week 3: Deep Learning + CNN  
 ### Resources Used:
