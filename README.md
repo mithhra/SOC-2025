@@ -158,8 +158,6 @@ This repository showcases my complete progress in the Summer of Code (SoC) mento
 |---------------|--------------------------|
 | ![content](image.jpg) | ![styled](output.jpeg) |
 
-> *(replace with your actual result images)*
-
 ---
 
 ## Concepts Learned
@@ -193,7 +191,7 @@ This journey taught me how **machine learning can be artistic and expressive**. 
 
 ---
 
-## Tech Stack
+## Tools used
 
 - Python, PyTorch  
 - torchvision, PIL, matplotlib  
