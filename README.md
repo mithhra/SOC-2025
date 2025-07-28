@@ -152,11 +152,11 @@ This repository showcases my complete progress in the Summer of Code (SoC) mento
 
 ---
 
-### 🖼Sample Results
+### Sample Results
 
 | Content Image | Stylized Output (Ghibli) |
 |---------------|--------------------------|
-| ![content](sample_input.jpg) | ![styled](styled_output.jpg) |
+| ![content](image.jpg) | ![styled](output.jpeg) |
 
 > *(replace with your actual result images)*
 
