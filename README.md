@@ -1,6 +1,6 @@
 # Ghibli-Style Image Transfer using Fast Neural Style Transfer – SoC EndTerm Submission 
 
-This repository showcases my complete progress in the Summer of Code (SoC) mentorship program, where I explored and implemented neural style transfer techniques, ultimately creating a real-time Ghibli-style image transfer model using **Fast Neural Style Transfer (FNST)**.
+This repository showcases my complete progress in the Summer of Code (SoC) mentorship program, where I explored and implemented neural style transfer techniques, ultimately creating a style image transfer model using **Fast Neural Style Transfer (FNST)**.
 
 ---
 
